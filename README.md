@@ -58,6 +58,6 @@ Color correction results
 5. Refine the white balance methods
 
 ## Acknowledgemnts
-I am gratefully acknowledge [Devin Rippner](mailto:devin.rippner@usda.gov), [SCINet](https://scinet.usda.gov/), and the [USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
+I am gratefully acknowledge [Devin Rippner](mailto:devin.rippner@usda.gov), [ORISE](https://orise.orau.gov/index.html), and the [USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
 
 
