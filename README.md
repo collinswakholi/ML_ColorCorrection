@@ -56,3 +56,8 @@ Color correction results
 3. Add other color spaces (CIELab, XYZ, etc.)
 4. Add other regression methods (Ridge, Lasso, ElasticNet, etc.)
 5. Refine the white balance methods
+
+## Acknowledgemnts
+I am gratefully acknowledge ([Devin Rippner](devin.rippner@usda.gov)), ([SCINet](https://scinet.usda.gov/)), and the ([USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
+
+
