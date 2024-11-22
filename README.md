@@ -50,12 +50,6 @@ Color correction results
 ![color correction results](Images/results1.png)
 
 
-## TODO
-1. Add other reference color values (D55, D65, D70, D75)
-2. Add other color charts (ColorChecker24, ColorCheckerSG, ColorCheckerDC)
-3. Add other color spaces (CIELab, XYZ, etc.)
-4. Add other regression methods (Ridge, Lasso, ElasticNet, etc.)
-5. Refine the white balance methods
 
 ## Acknowledgemnts
 I am gratefully acknowledge [Devin Rippner](mailto:devin.rippner@usda.gov), [ORISE](https://orise.orau.gov/index.html), and the [USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
